@@ -1,35 +1,58 @@
-# Hi, I'm Andrii
+![Andrii Sen — Junior Manual QA Engineer. Playwright and TypeScript automation in progress.](./assets/profile-banner.svg)
 
-**Junior Manual QA Engineer building skills in test automation and AI Quality Engineering.**
+<p align="center">
+  <a href="#selected-project-experience">Project experience</a> &nbsp; / &nbsp;
+  <a href="#automation-portfolio">Automation portfolio</a> &nbsp; / &nbsp;
+  <a href="#toolkit--learning">Toolkit &amp; learning</a>
+</p>
 
-I have a background in frontend development and am pursuing a Master's degree in Computer Science. I am developing a practical automation portfolio with Playwright and TypeScript, with a longer-term focus on evaluating AI-powered applications.
+I'm **Andrii**, a Junior Manual QA Engineer with previous frontend development experience and a strong JavaScript/TypeScript foundation. I'm pursuing a **Master's degree in Computer Science** and building practical skills in QA automation, with a longer-term focus on **AI Quality Engineering**.
 
-## What I bring
+## Selected project experience
 
-- Manual QA, API testing, SQL, HTML/CSS and browser DevTools
-- JavaScript and TypeScript skills, supported by previous frontend development experience
-- Working knowledge of Git and GitHub
+Projects I have worked on through GitHub accounts other than this one. My contributions are part of their team history, so they are not reflected in this account's repositories or contribution graph.
 
-## What I am learning
+| Project | Product | Production link |
+| :--- | :--- | :--- |
+| **OptionScout** | Options calculator and strategy visualizer | [optionscout.com ↗](https://optionscout.com/) |
+| **CrewCost** | Construction accounting software | [crewcost.com ↗](https://www.crewcost.com/) |
+| **Kickly** | Template-based visual content editor | [app.kickly.net ↗](https://app.kickly.net/) |
+| **Inforce Digital** | Software development company website | [inforce.digital ↗](https://inforce.digital/) |
 
-- Playwright: reliable UI and API tests, fixtures, Page Object Model and test isolation
-- GitHub Actions: reproducible checks and useful failure reports
-- AI/LLM testing: evaluation datasets, groundedness, failure analysis and regression testing
+## Automation portfolio
 
-## Portfolio
+### Playwright + TypeScript
 
-My Playwright + TypeScript automation framework is being prepared in a private repository. It uses a local demo application to practice UI and REST API testing, isolated test data and CI. A public link will be added after review and publication.
+A learning project built around a local task application, with a focus on independent tests, readable assertions and useful failure reports.
 
-Previous frontend projects:
+| Test design | Framework | Delivery |
+| :--- | :--- | :--- |
+| UI and REST API scenarios | Page Object Model and custom fixtures | GitHub Actions on Ubuntu 24.04 |
+| Positive, negative and boundary cases | Per-test data isolation and cleanup | Strict TypeScript checks |
+| Chromium, Firefox and WebKit | Reusable API client and test data | HTML/JUnit reports and failure traces |
+
+**Verified CI: 45/45 passed** — 24 API tests and 7 UI tests in each of three browsers. The repository is currently **private**; a public link will follow publication.
+
+## Toolkit & learning
+
+| Area | Current toolkit |
+| :--- | :--- |
+| **QA foundation** | Manual testing · API testing · SQL · Browser DevTools |
+| **Development background** | JavaScript · TypeScript · HTML · CSS |
+| **Version control** | Git · GitHub |
+| **Actively developing** | Playwright · GitHub Actions · UI/API automation |
+| **Exploring next** | LLM evaluation · Evaluation datasets · AI regression testing |
+
+<details>
+<summary><strong>Earlier frontend repositories</strong></summary>
 
 - [rss-feeds](https://github.com/AndriiSen/rss-feeds)
 - [universe-tt](https://github.com/AndriiSen/universe-tt)
 
-## Direction
-
-I am working toward QA Automation Engineer roles and, over time, deeper expertise in AI Quality Engineering. My current focus is building reliable tests and being able to explain the testing decisions behind them.
-
-Connect with me through [GitHub](https://github.com/AndriiSen).
+</details>
 
 ---
-This profile separates existing skills from areas I am learning. Portfolio projects demonstrate practice; they do not imply commercial automation or AI engineering experience.
+
+**Direction:** QA Automation Engineer → deeper expertise in AI Quality Engineering.
+
+Project experience above reflects team contributions. The automation framework documents my current learning and practice.
